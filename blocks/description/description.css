@@ -1,0 +1,11 @@
+.description {
+  box-sizing: border-box;
+  padding-top: 100px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-content: flex-start;
+  align-items: flex-start;
+  min-height: min-content;
+}
